@@ -45,6 +45,7 @@
     width: 200px; /* Задаем ширину */
     opacity: 1;
     padding: 5px;
+    border-radius: 2px;
     border: .1px solid #ccc;
     margin-left: 10px;
 }
