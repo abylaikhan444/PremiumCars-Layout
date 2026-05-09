@@ -2,6 +2,7 @@
 @import url(/css/base/variables.css);
 @import url(/css/layout/header.css);
 @import url(/css/layout/news-part.css);
+@import url(/css/layout/main-part.css);
 
 body {
     font-family: "PT Sans", sans-serif;
