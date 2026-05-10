@@ -1,0 +1,31 @@
+.main__inst-post-gallery{
+
+}
+
+.main__inst-post-gallery>h2 {
+    color: #171717;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+.main__inst-figures-box{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin-top: 25px;
+}
+
+.inst-button{
+    height: 50px;
+    width: 100%;
+    margin-top: 10px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    
+}

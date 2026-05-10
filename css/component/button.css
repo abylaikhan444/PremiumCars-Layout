@@ -1,0 +1,5 @@
+.btn {
+    background-color: var(--button-color);
+    pointer-events: painted;
+    
+}

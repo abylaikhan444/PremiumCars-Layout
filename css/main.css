@@ -3,6 +3,16 @@
 @import url(/css/layout/header.css);
 @import url(/css/layout/news-part.css);
 @import url(/css/layout/main-part.css);
+@import url(/css/component/button.css);
+@import url(/css/layout/main-posts.css);
+@import url(/css/component/pagination.css);
+@import url(/css/layout/main-inst.css);
+@import url(/css/layout/main-tags.css);
+@import url(/css/layout/news-email.css);
+
+
+
+
 
 body {
     font-family: "PT Sans", sans-serif;

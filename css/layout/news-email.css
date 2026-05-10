@@ -1,0 +1,49 @@
+.main__news-email-part{
+    margin-top: 60px;
+
+}
+
+.main__news-email-part>h2{
+    font-size: 18px;
+    font-weight: 700;
+    color: #171717;
+
+}
+
+.main__news-email-part>p{
+    margin-top: 11px;
+    color: var(--carts-author-text-color);
+
+}
+
+.main__news-email-part{
+
+    
+}
+
+.button-subscribe{
+    margin-top: 10px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    height: 50px;
+    width: 100%;
+    border-radius: 3px;
+    
+}
+
+.input {
+    height: 50px;
+    width: 100%;
+    border-color: #E5E5E5;
+    border: 1px solid;
+    padding: 10px;
+}
+
+.input-name {
+    margin-top: 27px;
+}
+
+.input-email {
+    margin-top: 10px;
+}

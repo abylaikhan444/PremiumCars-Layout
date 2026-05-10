@@ -1,6 +1,7 @@
 .main {
     margin: 50px 375px;
-
+    display: flex;
+    gap: 130px;
 }
 
 .main__content {
@@ -34,7 +35,7 @@
 }
 
 .container__carts-text-box *{
-    margin-bottom: 35px;
+    margin-bottom: 25px;
 
 }
 
@@ -68,3 +69,5 @@
     border-radius: 3px;
 
 }
+
+
