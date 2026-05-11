@@ -1,0 +1,45 @@
+.popular__posts{
+    margin: 0 375px;
+    
+}
+
+.popular__posts>h2{
+    font-size: 30px;
+    font-weight: 700;   
+    color: #171717;
+
+}
+
+.popular__posts-container{
+    margin-top: 27px;
+    display: flex;
+    gap: 30px;
+    
+}
+
+.popular__post-box{
+    width: 270px;
+    height: 298px;
+
+}
+
+.popular__post-box>img {
+    border-radius: 4px;
+}
+
+.popular__post-box>h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #171717;
+    margin-top: 20px;
+
+}
+
+.popular__post-box>p {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--carts-author-text-color);
+    margin-top: 10px;
+
+}
+

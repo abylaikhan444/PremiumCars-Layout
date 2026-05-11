@@ -1,0 +1,23 @@
+.footer-part{
+    height: 94px;
+    display: flex;
+    background-color: #000000;
+    padding: 0 375px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-part>h2 {
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff;
+    
+}
+
+.footer-part>ul {
+    display: flex;
+    gap: 30px;
+    color: #ffffff;
+    font-size: 14px;
+
+}
